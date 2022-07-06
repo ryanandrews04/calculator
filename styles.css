@@ -1,0 +1,12 @@
+.container{
+    border-style: solid;
+    display: inline-flex;
+    flex-direction: column;
+    border-radius: 5px;
+}
+
+.buttons {
+display: grid;
+grid-template-columns: auto auto auto;
+width: 150px;
+}

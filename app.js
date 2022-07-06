@@ -76,7 +76,7 @@ function equalsPress(){
 }
 
 function clearPress(){
-    displayString = "";
+    displayString = "0";
     firstNumber = "";
     operator = "";
     secondNumber = "";
